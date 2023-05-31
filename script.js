@@ -21,8 +21,3 @@ function threeSum(nums, target) {
   return closestSum; // return the closest sum at the end of the loop
 }
 module.exports = threeSum;
-	
-  
-}
-
-module.exports = threeSum;
